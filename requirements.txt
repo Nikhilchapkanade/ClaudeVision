@@ -1,0 +1,6 @@
+# requirements.txt
+mcp
+requests
+websocket-client
+Pillow
+python-dotenv
