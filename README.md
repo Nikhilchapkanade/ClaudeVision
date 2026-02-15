@@ -1,4 +1,4 @@
-# 🎨 ComfyUI-MCP-Agent
+# 🎨 ClaudeVision
 
 ### **The ultimate bridge between Claude Desktop and Cloud-based Image Generation.**
 
